@@ -5,7 +5,7 @@ categories: [Blipdeck]
 tags: [3d printing, blipdeck]
 ---
 
-# What is the Blipdeck
+## What is the Blipdeck
 Do you like collecting physical retro games but still prefer emulating them on your PC? Then you should build yourself a Blipdeck.
 
 Blipdeck is a just small box that contains:
