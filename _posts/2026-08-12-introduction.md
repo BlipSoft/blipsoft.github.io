@@ -1,7 +1,7 @@
 ---
 title: Introducing the Blipdeck
 date: 2026-08-12 12:00:00 +0200
-categories: [Blipdeck, Game Launches, Building the deck]
+categories: [Blipdeck]
 tags: [3d printing, blipdeck]
 ---
 
