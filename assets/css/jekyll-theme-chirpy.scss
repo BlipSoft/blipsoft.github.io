@@ -1,0 +1,10 @@
+---
+# This file must contain two lines of dashes at the top so Jekyll processes it!
+---
+
+@import "jekyll-theme-chirpy";
+
+/* Your custom styles to permanently hide the avatar wrapper */
+#avatar-wrapper {
+  display: none !important;
+}
